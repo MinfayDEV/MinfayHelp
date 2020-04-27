@@ -1,1 +1,7 @@
-{}
+{
+    "token": "TON TOKEN",
+    "prefix": "TON PREFIX",
+    "ownerID": "TON ID",
+    "version": "TA VERSION"
+    
+}
